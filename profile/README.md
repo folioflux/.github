@@ -16,17 +16,20 @@
 
 ### What we're building
 
-FolioFlux is an AI finance workspace for freelancers, small teams and their accountants. Bring your bank and card exports; FolioFlux builds a ledger you can verify, where every figure opens the rows behind it. The engine does the math, the AI explains it.
+FolioFlux is an AI finance workspace for freelancers, small teams and their accountants. Bring your bank and card exports and get a ledger you can verify, where every figure opens the rows behind it. The engine does the math, the AI explains it.
 
-- **A ledger you can check.** CSV and Excel exports from any bank, card or payment tool. No bank logins.
-- **Agents that wait for you.** Monthly close, subscription watch, runway check, unusual charges and tax set-aside. Every finding is a preview until you approve it.
-- **Ask in any AI.** Ask in the app, or connect ChatGPT, Claude or Cursor, read-only by default *(coming in early access)*.
-
-FolioFlux is free during early access. We invite people from the waitlist in waves.
+FolioFlux is free during early access.
 
 ### Open source
 
-Our first open-source repositories are on the way. They will be published here. Watch this space, or follow us on [LinkedIn](https://www.linkedin.com/company/folioflux) for announcements.
+| Repository | What it is |
+| --- | --- |
+| [ledger-mcp](https://github.com/folioflux/ledger-mcp) | A local, read-only MCP server with deterministic, row-cited finance tools over your own CSV bank exports. |
+| [same-answer-twice](https://github.com/folioflux/same-answer-twice) | A small CLI and TypeScript library that checks whether an AI agent gives the same answer to the same question twice. |
+| [bookkeeping-skills](https://github.com/folioflux/bookkeeping-skills) | Small, generic agent skills for bookkeeping basics: reading a bank CSV, citing source rows, reconciling totals and explaining cash flow. |
+| [brand](https://github.com/folioflux/brand) | Logos, colors, design tokens, typography and banner templates. |
+
+The code is MIT licensed. Contributions are welcome; see each repository's contributing guide.
 
 ### Contact
 
@@ -34,4 +37,4 @@ Our first open-source repositories are on the way. They will be published here. 
 - Security: see our [security policy](https://github.com/folioflux/.github/blob/main/SECURITY.md)
 - Founder & CEO: [Andrii Furmanets](https://github.com/afurm), Lviv, Ukraine
 
-<sub>FolioFlux shows and explains your numbers. It is not financial, tax, accounting or legal advice.</sub>
+<sub>Not financial, tax or legal advice.</sub>
