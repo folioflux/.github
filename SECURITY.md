@@ -6,7 +6,12 @@ We take the security of FolioFlux and our users' financial data seriously. Thank
 
 **Please do not report security issues through public GitHub issues, discussions or pull requests.**
 
-Email **[security@folioflux.com](mailto:security@folioflux.com)** with:
+Report them privately in either of these ways:
+
+- **GitHub private vulnerability reporting:** open the affected repository's **Security** tab and choose **Report a vulnerability**.
+- **Email:** [security@folioflux.com](mailto:security@folioflux.com)
+
+Please include:
 
 - a description of the issue and its potential impact
 - the affected product, URL, repository or version
@@ -17,7 +22,7 @@ We will acknowledge your report, keep you updated as we investigate, and let you
 
 ## Scope
 
-This policy covers the repositories in the [FolioFlux GitHub organization](https://github.com/folioflux) and the FolioFlux service at [folioflux.com](https://www.folioflux.com). More about how we handle data: [folioflux.com/security](https://www.folioflux.com/security).
+This policy covers the repositories in the [FolioFlux GitHub organization](https://github.com/folioflux) and the FolioFlux service at [folioflux.com](https://folioflux.com). More about how we handle data: [folioflux.com/security](https://folioflux.com/security).
 
 ## Safe harbor
 
